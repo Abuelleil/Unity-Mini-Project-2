@@ -1,7 +1,7 @@
 # Unity-Mini-Project-2
 
 Due to the fact that this repo is created on the date of the deadline, some of the work that was agreed upon
-from the proposal was already done, some modeling, and all the animations. The remainder of the work that we would
+from the proposal was already done and will be commited by me(Youssef Abuelleil), some modeling, and all the animations. The remainder of the work that we would
 have needed to find from the internet such as the external models will be added, intergrated and then pushed on the repo
 
 
